@@ -2,6 +2,20 @@
   text-align: center;
 }
 
+
+.rmf {
+  color: blue;
+  font-size: 13px;
+}
+
+.main-bg {
+  height: 200px;
+  /* background-image: url('./img/bg'); */
+  background-size: cover;
+  background-position: center;
+  
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
